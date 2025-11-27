@@ -1,4 +1,3 @@
-# .github
 # Doorbis ClosePilot™
 
 **Doorbis ClosePilot™** is an AI-powered real estate transaction coordination platform for brokers, agents, teams, builders, and transaction coordinators. It turns messy timelines, documents, and multi-channel communications into a single, coordinated “auto-TC” that keeps every deal on track.
